@@ -1,6 +1,6 @@
 <h2> Olá 👋🏾, meu nome é Antonio Daivan! Fico feliz em te ver por aqui! </h2><br>
 👨🏾‍💻 Atualmente trabalhando no Laboratório Anchieta. Empresa do ramo de exames laboratoriais.<br>
-💻 Aprendendo HTML5, CSS3, Javascript, ReactJS, Boostrap, SQL Server, HTTP, API, C#, .NET e Linux no Bootcamp Full-Stack Developer da Digital Innovation One em parceria com a MRV.<br>
+💻 Estudando HTML5, CSS3, Javascript, Node.js, ReactJS, Boostrap, SQL Server, HTTP, API e Linux.<br>
 🗯 Alguns dos meus projetos podem ser encontrados no meu perfil do <a href = "https://github.com/AntonioDaivan/" target="_blank"><img src="https://img.shields.io/badge/-Antonio Daivan-05122A?style=flat&logo=github"></a> e você também pode me encontrar no
 <a href = "https://www.linkedin.com/in/AntonioDaivan/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin"></a> ou no <a href = "https://www.instagram.com/antonio_daivan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram"></a>.<br>
 ⚡ Sou facinado pelo universo da T.I. principalmente quando se trata de telecomunicações e desenvolvimento. E nas horas vagas gosto de ler, jogar e me atualizar sobre os eletronicos para automação residencial.<br>
@@ -29,11 +29,8 @@
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js">
   <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react">
   <img src="https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql">
-  <img src="https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet">
-  <img src="https://img.shields.io/badge/-C Sharp-05122A?style=flat&logo=csharp">
   <img src="https://img.shields.io/badge/-PS-05122A?style=flat&logo=adobephotoshop">
   <img src="https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux">
-  <img src="https://img.shields.io/badge/-Mint-05122A?style=flat&logo=linuxmint">
   <img src="https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu">
 </div>
   
