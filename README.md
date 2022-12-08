@@ -1,9 +1,8 @@
-<h2> Olá 👋🏾, meu nome é Antonio Daivan! Fico feliz em te ver por aqui! </h2><br>
+<h2> Olá 👋🏾</h2><br>
 👨🏾‍💻 Atualmente trabalhando no Laboratório Anchieta. Empresa do ramo de exames laboratoriais.<br>
-💻 Estudando HTML5, CSS3, Javascript, Node.js, ReactJS, Boostrap, SQL Server, HTTP, API e Linux.<br>
-🗯 Alguns dos meus projetos podem ser encontrados no meu perfil do <a href = "https://github.com/AntonioDaivan/" target="_blank"><img src="https://img.shields.io/badge/-Antonio Daivan-05122A?style=flat&logo=github"></a> e você também pode me encontrar no
+💻 Estudando HTML5, CSS3, Javascript, Node.js, ReactJS, Boostrap.<br>
+🗯 Alguns dos meus projetos podem ser encontrados no meu perfil do
 <a href = "https://www.linkedin.com/in/AntonioDaivan/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin"></a> ou no <a href = "https://www.instagram.com/antonio_daivan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram"></a>.<br>
-⚡ Sou facinado pelo universo da T.I. principalmente quando se trata de telecomunicações e desenvolvimento. E nas horas vagas gosto de ler, jogar e me atualizar sobre os eletronicos para automação residencial.<br>
 
 <hr>
 <br>
